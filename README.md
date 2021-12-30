@@ -1,2 +1,1 @@
-# google-chinese-banlist
- 
+个人偏好明显的黑名单地址。
