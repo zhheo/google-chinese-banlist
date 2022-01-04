@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/zhheo/google-chinese-banlist/main/uBlacklist.t
 
 ## 屏蔽偏好
 
+- 搜索结果权重很高的垃圾站
 - 纯爬虫站
 - 标题党站（文不对题）
 - 错误外链（点进去发现已经换站了）
@@ -20,8 +21,12 @@ https://raw.githubusercontent.com/zhheo/google-chinese-banlist/main/uBlacklist.t
 
 ## 误封
 
-如果你是站长，网站被误封。或者有需要的网站被误封，请提交issues。
+因为该列表本着宁可错杀也不遗漏的原则，可能存在大量误封情况。如果你是站长，网站被误封。或者有需要的网站被误封，欢迎提交issues。
 
 ## 更新周期
 
 不定期更新，一般来说为一周一次
+
+## 适用人群
+
+适用所有人群，格外适用于互联网工作者。
