@@ -62,3 +62,16 @@ title/.* - .*视频搜索/
 *://cenxilm.com/*
 *://www.axjbd.com/*
 *://www.qindouys.com/*
+*://www.msfxt.com/*
+*://www.cusineworld.com/*
+*://www.cxzl.com/*
+*://www.gygdqh.com/*
+*://www.cr-expo.com/*
+*://www.100famen.com/*
+*://www.znjj.tv/*
+*://capswarehouse.com/*
+*://www.visitschotland.com/*
+*://www.fhsas.com/*
+*://www.zhaozhongzdh.com/*
+*://ball-kicker.com/*
+*://www.bacaoo.com/*
