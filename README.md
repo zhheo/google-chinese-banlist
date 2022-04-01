@@ -1,6 +1,18 @@
+# 谷歌中文搜索优化
+
 搜索引擎的精准性要求远大于结果数量，所以这就是黑名单的重要性。个人偏好明显的黑名单地址。禁用掉我遇到的垃圾信息。
 
 ## 订阅方式
+
+安装 [uBlacklist](https://github.com/iorate/uBlacklist)
+
+[Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
+
+[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
+
+[App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640) (for macOS and iOS)
+
+后进入 'Option' 菜单，点击 '添加订阅'，输入订阅地址：
 
 ublacklist订阅地址：
 ```
