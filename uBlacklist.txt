@@ -150,3 +150,7 @@ title/.* - .*视频搜索/
 *://www.bajiaoyingshi.com/*
 *://www.qu99.com/*
 *://www.3d66.com/*
+*://www.danggeren.top/*
+*://www.163.com/*
+*://open.toutiao.com/*
+*://g9.baidu.com/*
