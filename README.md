@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/zhheo/google-chinese-banlist/main/uBlacklist.t
 
 ## 更新周期
 
-不定期更新，一般来说为一周一次。
+每月不定期更新。
 
 ## 适用人群
 
