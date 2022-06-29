@@ -1,6 +1,8 @@
 title/.* - .*视频搜索/
 title/.* - .*问答网/
 title/.* - .*生活百科/
+title/.* - .*网/
+title/.* - .*导航/
 *://www.shending.cc/*
 *://ppku.cc/*
 *://download.csdn.net/*
@@ -215,3 +217,10 @@ title/.* - .*生活百科/
 *://www.easy-recovery.cn/*
 *://www.easyrecovery.net/*
 *://www.chaojituzi.net/*
+*://mrank.tv/*
+*://ja.biguz.net/*
+*://www.nyist.net/*
+*://www.xueerbao.com/*
+*://bzb8z.freejobalerts24.com/*
+*://www.pky9.com/*
+*://www.7200500.com/*
