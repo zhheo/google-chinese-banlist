@@ -275,7 +275,6 @@ title/.*\[复制\]*/
 *://tarpits.org/*
 *://publicationethics.org/*
 *://www.navymwr.org/*
-*://www.mi.com/*
 *://nhmlac.org/*
 *://m.foodingredientsfirst.com/*
 *://www.maine.gov/*
