@@ -1,8 +1,10 @@
 title/.* - .*视频搜索/
 title/.* - .*问答网/
 title/.* - .*生活百科/
-title/.* - .*网/
 title/.* - .*导航/
+title/.* - .*网/
+title/.*【复制*/
+title/.*\[复制\]*/
 *://www.shending.cc/*
 *://ppku.cc/*
 *://download.csdn.net/*
@@ -224,3 +226,60 @@ title/.* - .*导航/
 *://bzb8z.freejobalerts24.com/*
 *://www.pky9.com/*
 *://www.7200500.com/*
+*://www.3997025.com/*
+*://www.63458799.com/*
+*://www.1565759.com/*
+*://www.dcep676.com/*
+*://www.glh5770.com/*
+*://www.fdf45.com/*
+*://qumiaodong.com/*
+*://www.jy135.com/*
+*://m.jb51.net/*
+*://www.lhmc.edu.cn/*
+*://www.uoowu.com/*
+*://www.hnhuanan.com/*
+*://www.cangpan.com/*
+*://www.dongman114.com/*
+*://www.135editor.com/*
+*://www.wuxiboda.com/*
+*://www.smpapa.com/*
+*://www.aoladusi.com/*
+*://www.sgss8.com/*
+*://www.99fuman.xyz/*
+*://shaozengxiao.com/*
+*://www.yh168.xyz/*
+*://www.huizhitui.com/*
+*://www.tucaozhiyin.com/*
+*://m.i4.cn/*
+*://m.guofenkong.com/*
+*://www.guoguofen.com/*
+*://m.300.cn/*
+*://m.huguan123.com/*
+*://m.52pjb.net/*
+*://qwjyg.com/*
+*://dongjingyan.com/*
+*://poapan.xyz/*
+*://gay2porn.com/*
+*://www.dlsite.com/*
+*://www.fdf42.com/*
+*://www.fdf55.com/*
+*://www.serverspc.com/*
+*://www.templatemonster.com/*
+*://themeforwp.net/*
+*://webdesign.tutsplus.com/*
+*://m.wpjam.com/*
+*://www.icauto.com.cn/*
+*://blog.51cto.com/*
+*://copyfuture.com/*
+*://www.teamlab.art/*
+*://tarpits.org/*
+*://publicationethics.org/*
+*://www.navymwr.org/*
+*://www.mi.com/*
+*://nhmlac.org/*
+*://m.foodingredientsfirst.com/*
+*://www.maine.gov/*
+*://www.faberge.com/*
+*://www.cnrtl.fr/*
+*://minecraft.fandom.com/*
+*://moovitapp.com/*
