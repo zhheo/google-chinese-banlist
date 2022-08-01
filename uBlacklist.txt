@@ -2,7 +2,6 @@ title/.* - .*视频搜索/
 title/.* - .*问答网/
 title/.* - .*生活百科/
 title/.* - .*导航/
-title/.* - .*网/
 title/.*【复制*/
 title/.*\[复制\]*/
 *://www.shending.cc/*
@@ -282,3 +281,31 @@ title/.*\[复制\]*/
 *://www.cnrtl.fr/*
 *://minecraft.fandom.com/*
 *://moovitapp.com/*
+*://www.howlifeusa.com/*
+*://www.petminderpro.com/*
+*://www.wpcom.cn/*
+*://www.themepark.com.cn/*
+*://www.cssmoban.com/*
+*://www.jianzhanpress.com/*
+*://webnus.net/*
+*://www.uj5u.com/*
+*://www.littlemodesty.com/*
+*://wpjian.com/*
+*://www.wbolt.com/*
+*://www.wordpress.la/*
+*://www.9game.cn/*
+*://m.studyofnet.com/*
+*://www.javaee.cc/*
+*://m.znjj.tv/*
+*://www.carlalucente.com/*
+*://m.zhihejia.com/*
+*://m.video.360kan.com/*
+*://kkcomics.cc/*
+*://bbb.17house.com/*
+*://nb.17house.com/*
+*://iask.sina.com.cn/*
+*://www.lehuotuan.com/*
+*://www.careerslife.com/*
+*://www.hezhisw.com/*
+*://www.isharepc.com/*
+*://www.yoojia.com/*
