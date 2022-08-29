@@ -21,6 +21,8 @@ https://raw.githubusercontent.com/zhheo/google-chinese-banlist/main/uBlacklist.t
 
 ## 屏蔽偏好
 
+【此规则非常主观】
+
 - 搜索结果权重很高的垃圾站
 - 纯爬虫站
 - 标题党站（文不对题）
