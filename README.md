@@ -2,6 +2,10 @@
 
 搜索引擎的精准性要求远大于结果数量，所以这就是黑名单的重要性。个人偏好明显的黑名单地址。禁用掉我遇到的垃圾信息。
 
+## 本规则仅本人自用，禁止他人使用
+
+请勿star，仅限本人自用，其他人不要使用
+
 ## 订阅方式
 
 安装 [uBlacklist](https://github.com/iorate/uBlacklist)
@@ -40,7 +44,3 @@ https://raw.githubusercontent.com/zhheo/google-chinese-banlist/main/uBlacklist.t
 ## 更新周期
 
 每月不定期更新。
-
-## 适用人群
-
-适用所有人群，格外适用于互联网工作者。
