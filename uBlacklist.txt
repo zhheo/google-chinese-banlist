@@ -597,3 +597,11 @@ title/.*人名查询:[ ]?.*(姓名|创始人)是(什么|谁)？-/
 *://bbs.ishops.top/*
 *://www.itdaan.com/*
 *://www.llsxymyyxgs.com/*
+*://www.52appleid.com/*
+*://www.kejiwanjia.com/*
+*://sites.google.com/*
+*://www.csdn.net/tags/*
+*://www.289.com/*
+*://www.pc6.com/*
+*://blog.csdn.net/*
+*://read01.com/*
