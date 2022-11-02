@@ -6,8 +6,6 @@
 
 请勿star，仅限本人自用，仅用于本人多设备互联时同步使用。其他人禁止使用。
 
-主观偏好特别明显，谨慎使用。
-
 ## 订阅方式
 
 安装 [uBlacklist](https://github.com/iorate/uBlacklist)
