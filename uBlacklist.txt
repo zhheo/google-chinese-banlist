@@ -11,8 +11,6 @@ title/.*一键访问国外网站/
 title/.*人名查询:[ ]?.*(姓名|创始人)是(什么|谁)？-/
 title/.*娛樂城*/
 title/.*✔️*/
-title/.*com*】*/
-title/.*vip*】*/
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
@@ -1020,3 +1018,4 @@ title/.*vip*】*/
 *://saxoline.cl/*
 *://premiata.it/*
 *://www.accellww.com/*
+*://www.gdlangteng.cn/*
