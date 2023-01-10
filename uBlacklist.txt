@@ -11,6 +11,10 @@ title/.*一键访问国外网站/
 title/.*人名查询:[ ]?.*(姓名|创始人)是(什么|谁)？-/
 title/.*娛樂城*/
 title/.*✔️*/
+title/.*㊙️️*/
+title/.*☀️️*/
+title/.*【 官网*/
+title/.*【 推荐*/
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
@@ -280,7 +284,6 @@ title/.*✔️*/
 *://webdesign.tutsplus.com/*
 *://m.wpjam.com/*
 *://www.icauto.com.cn/*
-*://blog.51cto.com/*
 *://copyfuture.com/*
 *://www.teamlab.art/*
 *://tarpits.org/*
@@ -1019,3 +1022,24 @@ title/.*✔️*/
 *://premiata.it/*
 *://www.accellww.com/*
 *://www.gdlangteng.cn/*
+*://blog.51cto.com/*
+*://www.laymac.com/*
+*://www.xxapp.net/*
+*://foxirj.com/*
+*://www.52mac.com/*
+*://www.kkmac.com/*
+*://aliexpress.ru/*
+*://www.xxmac.com/*
+*://macappbox.com.cutestat.com/*
+*://www.i4.cn/*
+*://ii5h0g4xp4.com/*
+*://nav.94wz.com/*
+*://jp.stussy.com/*
+*://www.ipcc.ch/*
+*://www.favarger.com/*
+*://mac.macsc.com/*
+*://iqrf9qrt77.com/*
+*://www.peregrineclothing.co.uk/*
+*://prim-rose.com/*
+*://explorekyhistory.ky.gov/*
+*://tw.dictionary.yahoo.com/*
