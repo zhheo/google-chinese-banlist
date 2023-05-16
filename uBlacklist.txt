@@ -1708,3 +1708,11 @@ title/.*【 推荐*/
 *://jishuin.proginn.com/*
 *://www.mobile01.com/*
 *://www.dnzp.com/*
+*://www.volcengine.com/*
+*://www.farmer21.com/*
+*://www.gggwd.com/*
+*://www.awind.com.cn/*
+*://es-la.facebook.com/*
+*://www.poringa.net/*
+*://www.edem.g12.br/*
+*://www.idchg.com/*
