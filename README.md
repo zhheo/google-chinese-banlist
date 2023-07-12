@@ -22,10 +22,6 @@
 
 只要搜不到，世界就干净了。
 
-## 本规则仅本人自用，禁止他人使用
-
-仅限本人自用，仅用于本人多设备互联时同步使用。
-
 ## 订阅方式
 
 安装 [uBlacklist](https://github.com/iorate/uBlacklist)
@@ -45,7 +41,7 @@ https://raw.githubusercontent.com/zhheo/google-chinese-banlist/main/uBlacklist.t
 
 ## 误封
 
-该列表仅本人使用，如存在误封，欢迎提交issues。
+该列表专供本人使用，如存在误封，请谅解并欢迎提交issues。
 
 ## 更新周期
 
