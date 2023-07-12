@@ -47,3 +47,9 @@ https://raw.githubusercontent.com/zhheo/google-chinese-banlist/main/uBlacklist.t
 ## 更新周期
 
 每月不定期更新。
+
+## 上游项目
+
+列表中的部分网址来自其他项目。
+
+[Google-Blocklist](https://github.com/Paxxs/Google-Blocklist)
