@@ -17,14 +17,11 @@
 - 疑似诈骗的网站
 - SEO站
 - 各种爬虫百科
-- 无法阅读的小说站
+- 无法阅读小说的小说站
 - 无法看视频的视频站
+- 无法听/下载音乐的音乐站
 
 只要搜不到，世界就干净了。
-
-## 本规则仅本人自用，禁止他人使用
-
-仅限本人自用，仅用于本人多设备互联时同步使用。
 
 ## 订阅方式
 
@@ -45,8 +42,14 @@ https://raw.githubusercontent.com/zhheo/google-chinese-banlist/main/uBlacklist.t
 
 ## 误封
 
-该列表仅本人使用，如存在误封，欢迎提交issues。
+该列表专供本人使用，如存在误封，请谅解并欢迎提交issues。
 
 ## 更新周期
 
 每月不定期更新。
+
+## 上游项目
+
+列表中的部分网址来自其他项目。
+
+[Google-Blocklist](https://github.com/Paxxs/Google-Blocklist)
