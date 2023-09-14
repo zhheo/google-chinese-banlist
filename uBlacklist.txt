@@ -1527,7 +1527,6 @@ title/.*fakaID.com*/
 *://www.oedigital.com/*
 *://www.greenxf.com/*
 *://m.wodown.com/*
-*://www.macz.com/*
 *://www.catalystathletics.com/*
 *://baiyunju.cc/*
 *://www.macbaox.com/*
@@ -1831,3 +1830,11 @@ title/.*fakaID.com*/
 *://www.hxnews.com/*
 *://www.siemens-home.cn/*
 *://m.53xt.com/*
+*://www.53xt.com/*
+*://www.kandaoni.com/*
+*://www.3dtoo.com/*
+*://www.alypw.com/*
+*://www.waha.cc/*
+*://www.xbgame.net/*
+*://zztt11.com/*
+*://www.zku.net/*
