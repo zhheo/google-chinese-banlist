@@ -1666,7 +1666,6 @@ title/.*fakaID.com*/
 *://www.sbaad.no/*
 *://en.butterfly.tt/*
 *://www.bible.com/*
-*://m.facebook.com/*
 *://www.roamler.com/*
 *://www.wausauhomes.com/*
 *://www.sdcard.org/*
@@ -1803,7 +1802,6 @@ title/.*fakaID.com*/
 *://m.txt99.org/*
 *://www.meixiaosan.com/*
 *://www.zhuboart.com/*
-*://twitter.com/*
 *://virtualsc.org/*
 *://creativepro.com/*
 *://supertrapp.com/*
@@ -1838,3 +1836,16 @@ title/.*fakaID.com*/
 *://www.xbgame.net/*
 *://zztt11.com/*
 *://www.zku.net/*
+*://www.manchester.ac.uk/*
+*://ik-us.facebook.com/*
+*://www.palliser.com/*
+*://www.51fuman.com/*
+*://173.242.119.120/*
+*://26615.haniwawa.com/*
+*://am74344.poradnanadja.cz/*
+*://am74344.mlekojermanice.cz/*
+*://am74344.awakeshop.fr/*
+*://am74344.krasrazvitie.ru/*
+*://4765698.sagore.co.ua/*
+*://4765698.samulrajas.co.ua/*
+*://4765698.nikohn.foundation/*
