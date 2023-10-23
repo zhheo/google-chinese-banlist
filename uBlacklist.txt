@@ -15,7 +15,13 @@ title/.*㊙️️*/
 title/.*☀️️*/
 title/.*【 官网*/
 title/.*【 推荐*/
+title/.*义乌外围*/
+title/.*加薇*/
+title/.*微信:*/
+title/.*外围女*/
+title/.*小妹特别服务*/
 title/.*fakaID.com*/
+title/.代开[\u4e00-\u9fa5]+发票*/
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
@@ -1849,3 +1855,18 @@ title/.*fakaID.com*/
 *://4765698.sagore.co.ua/*
 *://4765698.samulrajas.co.ua/*
 *://4765698.nikohn.foundation/*
+*://www.147seo.com/*
+*://www.cmsjq.com/*
+*://qcc.cool/*
+*://www.31dv.com/*
+*://520vr.cn/*
+*://www.179vr.cn/*
+*://www.vrwanba.com/*
+*://vr-game.club/*
+*://vrzwk.cn/*
+*://www.remit.co.jp/*
+*://www.jpaa.or.jp/*
+*://am74344.ezpeleta.es/*
+*://4765698.saramar.co.ua/*
+*://am74344.levonslevoile.fr/*
+*://www.678vr.com/*
