@@ -16,12 +16,15 @@ title/.*☀️️*/
 title/.*【 官网*/
 title/.*【 推荐*/
 title/.*义乌外围*/
-title/.*加薇*/
 title/.*微信:*/
 title/.*外围女*/
 title/.*小妹特别服务*/
 title/.*fakaID.com*/
 title/.代开[\u4e00-\u9fa5]+发票*/
+title/.打开网站:*/
+title/.KF367.com*/
+title/.(网站:*/
+title/.kf367.com*/
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
@@ -1870,3 +1873,20 @@ title/.代开[\u4e00-\u9fa5]+发票*/
 *://4765698.saramar.co.ua/*
 *://am74344.levonslevoile.fr/*
 *://www.678vr.com/*
+*://valorfitness.com/*
+*://forever.collingwoodfc.com.au/*
+*://www.theraband.com/*
+*://anmtv.com.br/*
+*://www.learnliberty.org/*
+*://www.ncbi.nlm.nih.gov/*
+*://lin7k-g0gmbufeguhhethp.z01.azurefd.net/*
+*://fightingillini.com/*
+*://shopee.co.id/*
+*://www.btcc.net/*
+*://www.dba.dk/*
+*://154.204.59.74/*
+*://barasportswear.com/*
+*://htsp.ca/*
+*://www.joysound.com/*
+*://extfans.com/*
+*://www.iedge123.com/*
