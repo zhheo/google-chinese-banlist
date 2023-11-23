@@ -1,3 +1,4 @@
+title/.*Q-5220*/
 title/.* - .*视频搜索/
 title/.* - .*问答网/
 title/.* - .*生活百科/
@@ -16,7 +17,6 @@ title/.*☀️️*/
 title/.*【 官网*/
 title/.*【 推荐*/
 title/.*义乌外围*/
-title/.*微信:*/
 title/.*外围女*/
 title/.*小妹特别服务*/
 title/.*fakaID.com*/
@@ -25,6 +25,11 @@ title/.打开网站:*/
 title/.KF367.com*/
 title/.(网站:*/
 title/.kf367.com*/
+title/.*guge886.com*/
+title/.*电报e*/
+title/.*seo334*/
+title/.*baping.biz*/
+title/.*seo66*/
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
@@ -1890,3 +1895,30 @@ title/.kf367.com*/
 *://www.joysound.com/*
 *://extfans.com/*
 *://www.iedge123.com/*
+*://www.agefa.org/*
+*://petmaster.com.sg/*
+*://www.macmj.com/*
+*://www.mac668.com/*
+*://macbox.app/*
+*://guowaipan.com/*
+*://www.yoqu.win/*
+*://usepremium.blog.fc2blog.us/*
+*://aaanr.com.webstatdata.com/*
+*://www.geometrics.com/*
+*://www.lijiaocn.com/*
+*://www.xiaomapan.com/*
+*://www.xxrjm.com/*
+*://www.5v13.com/*
+*://m.nokia88.com/*
+*://www.tdwan.com/*
+*://www.dajingstone.com/*
+*://bjpypj.nicolabhamra.com/*
+*://qiita.com/*
+*://www.pzzhd.com/*
+*://stock.adobe.com/*
+*://www.furongcj.com/*
+*://www.xbeibeix.com/*
+*://www.tk436.com/*
+*://books.google.com/*
+*://www.china-aseanbusiness.org.cn/*
+*://www.lxsgt.uk/*
