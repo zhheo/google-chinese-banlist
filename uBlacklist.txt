@@ -30,6 +30,9 @@ title/.*电报e*/
 title/.*seo334*/
 title/.*baping.biz*/
 title/.*seo66*/
+title/.*9527nb.com*/
+title/.*黑帽seo*/
+title/.*XSJ053*/
 *://*/so.php
 *://*/so.php?s=*
 *://*/cha.php?s=*
@@ -92,7 +95,6 @@ title/.*seo66*/
 *://rogergrizzly.nl/*
 *://www.ygt.org.uk/*
 *://43.225.39.42/*
-*://www.macw.com/*
 *://slot-dots.de/*
 *://tool.lu/*
 *://cenxilm.com/*
@@ -1468,7 +1470,6 @@ title/.*seo66*/
 *://concepts.app/*
 *://e-blueinfo.bvsalud.org/*
 *://www.gameweibo.com/*
-*://www.qidian.com/*
 *://tw.nextapple.com/*
 *://reactome.org/*
 *://www.fontanaarte.com/*
@@ -1922,3 +1923,18 @@ title/.*seo66*/
 *://books.google.com/*
 *://www.china-aseanbusiness.org.cn/*
 *://www.lxsgt.uk/*
+*://www.google.com/mymaps/*
+*://ditu.amap.com/search/*
+*://www.robotian.net/*
+*://a.sousou.pro/*
+*://www.hdshare.cn/*
+*://www.mayi4k.com/*
+*://www.rgbcg.com/*
+*://www.superso.top/*
+*://www.macw.com/*
+*://www.downpj.com/*
+*://www.criterionchannel.com/*
+*://www.mizunousa.com/*
+*://donegalbowls.com/*
+*://www.tongke88.com/*
+*://mac.macxf.com/*
