@@ -1,4 +1,5 @@
 title/.*Q-5220*/
+title/.*bet25.net*/
 title/.* - .*视频搜索/
 title/.* - .*问答网/
 title/.* - .*生活百科/
@@ -92,7 +93,6 @@ title/.*mw93.com*/
 *://www.macjb.com/*
 *://www.mac69.com/*
 *://www.memacx.com/*
-*://www.macv.com/*
 *://ttb.viaciatop.us/*
 *://housemajster24.pl/*
 *://icon.soft300.com/*
@@ -2020,3 +2020,39 @@ title/.*mw93.com*/
 *://www.macqj.com/*
 *://www.goingmac.com/*
 *://www.seemac.cn/*
+*://www.aliyun.com/*
+*://nl-nl.facebook.com/*
+*://www.wuhenge.com/*
+*://www.xingsuyun58.com/*
+*://www.gxltrc.com/*
+*://www.22vd.com/*
+*://wpzyh.com/*
+*://www.qujianxiang.com/*
+*://www.dxsc18.cn/*
+*://mox.moe/*
+*://www.alipanba.com/*
+*://mhx12.com/*
+*://146.19.24.47/*
+*://it-it.facebook.com/*
+*://m.facebook.com/*
+*://br-fr.facebook.com/*
+*://www.1ting.com/*
+*://www.thirdstage-consulting.com/*
+*://wenxin.baidu.com/*
+*://search.pudn.com/*
+*://www.slideshare.net/*
+*://ja-jp.facebook.com/*
+*://www.google.co.ve/*
+*://www.google.cz/*
+*://www.macv.com/*
+*://m.iyf.tv/*
+*://olevod6.com/*
+*://www.zywu.info/*
+*://omii.top/*
+*://www.caiyawang.com/*
+*://www.aitxn.com/*
+*://b.mincm.com/*
+*://www.mac163.cn/*
+*://www.maclub123.com/*
+*://soft.qklchain.com/*
+*://mdnice.com/*
