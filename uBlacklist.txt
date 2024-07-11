@@ -1,5 +1,14 @@
 title/.*Q-5220*/
+title/.*seotg8.com*/
+title/.*hhu999*/
+title/.*𝐡𝐡𝐮𝟗𝟗𝟗】*/
+title/.*【谷歌推广*/
+title/.*dashenseo.com*/
+title/.*top233.com*/
+title/.*gugeseo.cc*/
+title/.*liuhen.cc*/
 title/.*bet25.net*/
+title/.*ism568.cc*/
 title/.* - .*视频搜索/
 title/.* - .*问答网/
 title/.* - .*生活百科/
@@ -21,10 +30,9 @@ title/.*义乌外围*/
 title/.*外围女*/
 title/.*小妹特别服务*/
 title/.*fakaID.com*/
-title/.代开[\u4e00-\u9fa5]+发票*/
+title/.*代开发票*/
 title/.打开网站:*/
 title/.KF367.com*/
-title/.(网站:*/
 title/.kf367.com*/
 title/.*guge886.com*/
 title/.*电报e*/
@@ -1926,7 +1934,6 @@ title/.*mw93.com*/
 *://books.google.com/*
 *://www.china-aseanbusiness.org.cn/*
 *://www.lxsgt.uk/*
-*://www.google.com/mymaps/*
 *://ditu.amap.com/search/*
 *://www.robotian.net/*
 *://a.sousou.pro/*
@@ -2020,8 +2027,6 @@ title/.*mw93.com*/
 *://www.macqj.com/*
 *://www.goingmac.com/*
 *://www.seemac.cn/*
-*://www.aliyun.com/*
-*://nl-nl.facebook.com/*
 *://www.wuhenge.com/*
 *://www.xingsuyun58.com/*
 *://www.gxltrc.com/*
@@ -2042,8 +2047,6 @@ title/.*mw93.com*/
 *://search.pudn.com/*
 *://www.slideshare.net/*
 *://ja-jp.facebook.com/*
-*://www.google.co.ve/*
-*://www.google.cz/*
 *://www.macv.com/*
 *://m.iyf.tv/*
 *://olevod6.com/*
@@ -2056,3 +2059,38 @@ title/.*mw93.com*/
 *://www.maclub123.com/*
 *://soft.qklchain.com/*
 *://mdnice.com/*
+*://blog.haojianxiang.top/*
+*://m.3d66.com/*
+*://ieubs.9game.cn/*
+*://world.taobao.com/*
+*://www.micro-matic.co.uk/*
+*://www.solarilluminations.co.uk/*
+*://izkzk.com/*
+*://www.tca.cn.com/*
+*://www.manhuapdf.com/*
+*://imanshe.com/*
+*://www.kuaikanmanhua.com/*
+*://lanrenbl.net/*
+*://www.wxdm.cc/*
+*://www.1wwh.net/*
+*://m.kuaikanmanhua.com/*
+*://kindle.smgzd.com/*
+*://acgfun.moe/*
+*://www.dypdf.com/*
+*://www.dashengpan.xyz/*
+*://www.xiaomapan.xyz/*
+*://contentmarketinginstitute.com/*
+*://mojim.com/*
+*://sketchfab.com/*
+*://hdworldmovie.com/*
+*://www.yzktw.com.cn/*
+*://www.ptyqm.com/*
+*://convert.hatool.com/*
+*://tool.fiaox.com/*
+*://thatcoders.github.io/*
+*://www.hi-linux.com/*
+*://get58.cn/*
+*://lanfucai.com/*
+*://www.vfx123.com/*
+*://cgmuban.com/*
+*://www.cq556.com/*
